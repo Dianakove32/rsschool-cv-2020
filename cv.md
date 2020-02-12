@@ -58,4 +58,4 @@ I have no practical work experience
 
 **English:**
 Finished English courses (English courses in Belarusian Trade and Economics University of  Consumer Cooperatives,2015-2016). Over the past year I have real experience communicating with foreign friends.
-[https://www.training.by/UserProfile#!/Main/?lang=ru](resume)
+ [GitHub](https://github.com/dianakove32)
