@@ -1,0 +1,57 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+max-width:1024px;
+margin: 0 auto;
+background-color: aliceblue;
+
+}
+header{
+  border-bottom:3px solid #5980d4;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  color: #5980d4;
+  margin-top:50px;
+  text-align: right;
+}
+img{
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+
+p{
+padding:10px;
+font-size: 18px;
+}
+aside{ 
+  width:23%;
+  float:left;
+  text-align: right;
+  
+}
+aside p{
+  margin-top: 30px;
+   
+}
+main{
+  width: 75%;
+float:left;
+}
+
+xmp{
+  border:1px solid white;
+  background-color: white;
+  width: 600px;
+}
+a{
+text-decoration:none;
+color:green;
+}
+ul{
+    margin-left: 50px;
+}
